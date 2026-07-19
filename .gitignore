@@ -1,0 +1,38 @@
+.tools/*
+!.tools/.gitkeep
+.venv/*
+!.venv/.gitkeep
+.milo/*
+!.milo/.gitkeep
+
+# Runtime output and temporary files
+output/*
+!output/.gitkeep
+.tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
