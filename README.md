@@ -1,3 +1,5 @@
+💻 **ローカルWebアプリ：[MILo Video to 3Dを開く](http://127.0.0.1:8765/)** — `start.bat`で起動したPC内で利用できます。ポートが使用中の場合は、起動時に表示されるURLを開いてください。
+
 # MILo Video to 3D（movie_to_3D）
 
 ## 概要
